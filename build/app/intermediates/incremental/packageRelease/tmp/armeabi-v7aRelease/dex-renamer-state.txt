@@ -1,0 +1,4 @@
+#Thu Feb 23 14:12:23 GMT+05:00 2023
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\firebase\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

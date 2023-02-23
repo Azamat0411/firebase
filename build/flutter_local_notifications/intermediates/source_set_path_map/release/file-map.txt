@@ -1,0 +1,13 @@
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-java-1.0.0-beta04-0 C:\Users\user\.gradle\caches\transforms-3\0e8c11d18349c6f23eaa5a6092b6dd53\transformed\jetified-window-java-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-1.0.0-beta04-1 C:\Users\user\.gradle\caches\transforms-3\2f175e1ac5230d91811252bd319ea970\transformed\jetified-window-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-2 C:\Users\user\.gradle\caches\transforms-3\56a462420129a511b0c9e4ea30530ac6\transformed\core-1.6.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-annotation-experimental-1.1.0-3 C:\Users\user\.gradle\caches\transforms-3\7d7e67fc1db434569e76a5a465fec44a\transformed\jetified-annotation-experimental-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-4 C:\Users\user\.gradle\caches\transforms-3\e7a8cb1e1257ea0389e57a073e96d7a6\transformed\media-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-pngs-5 C:\Users\user\AndroidStudioProjects\firebase\build\flutter_local_notifications\generated\res\pngs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-resValues-6 C:\Users\user\AndroidStudioProjects\firebase\build\flutter_local_notifications\generated\res\resValues\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-rs-7 C:\Users\user\AndroidStudioProjects\firebase\build\flutter_local_notifications\generated\res\rs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-8 C:\Users\user\AndroidStudioProjects\firebase\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-9 C:\Users\user\AndroidStudioProjects\firebase\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-10 C:\Users\user\AndroidStudioProjects\firebase\build\flutter_local_notifications\intermediates\merged_res\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-main-11 C:\src\flutter 3.3.5\.pub-cache\hosted\pub.dartlang.org\flutter_local_notifications-13.0.0\android\src\main\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-release-12 C:\src\flutter 3.3.5\.pub-cache\hosted\pub.dartlang.org\flutter_local_notifications-13.0.0\android\src\release\res
